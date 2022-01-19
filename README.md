@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Shivam Srivastava... 
+- 👀 I’m interested in Python,PHP...
+- 🌱 I’m currently learning stage but I have open to work...
+- 📫 How to reach me- shivsri1401@gmail.com 
+
+<!---
+Shivsri1404/Shivsri1404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
